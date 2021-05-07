@@ -1,41 +1,39 @@
 ---
 # Display name
-title: 吳恩達
+title: 焦鲁
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- 焦鲁
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: 副教授
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 青岛大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 语言学习
+- 双语认知
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 心理学 博士
+    institution: 北京师范大学
+    year: 2019
+  - course: 联合培养 博士
+    institution: 匹兹堡大学 
+    year: 2017-2018
+  - course: 发展与教育心理学 硕士
+    institution: 华南师范大学
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:jiaolu902@gmail.com'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?hl=zh-CN&user=cZejFNwAAAAJ
+  - icon: researchgate
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.researchgate.net/profile/Lu-Jiao-2
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
