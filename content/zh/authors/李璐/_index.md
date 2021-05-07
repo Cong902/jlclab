@@ -25,5 +25,9 @@ email: "lilu15653518002@163.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Visitors
+- Graduate Students
+- 研究生
 ---
-
+李璐
+研究兴趣：语言认知  双语转换
+邮箱：lilu15653518002@163.com
