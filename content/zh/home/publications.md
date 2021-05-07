@@ -1,9 +1,14 @@
 ---
 widget: pages
-headless: true  # This file represents a page section.
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
 weight: 20
 
-# ... Put Your Section Options Here (title etc.) ...
+title: 最新成果
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, event, or publication.
