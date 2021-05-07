@@ -1,10 +1,14 @@
 ---
 # Display name
 title: 李璐
+bio: 
+interests:
+  - 语言认知
+  - 双语转换
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- 李璐
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,8 +30,8 @@ email: "lilu15653518002@163.com"
 user_groups:
 - Visitors
 - Graduate Students
-- 研究生
 ---
 
--研究兴趣：语言认知  双语转换
--邮箱：lilu15653518002@163.com
+
+
+邮箱：lilu15653518002@163.com
