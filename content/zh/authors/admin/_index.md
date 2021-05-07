@@ -2,8 +2,7 @@
 title: 刘聪
 role: 副教授
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests:
   - 双语加工
   - 外语效应
@@ -36,10 +35,10 @@ education:
       institution: 华南师范大学
       year: 2016
     
-email: ""
+email: "congu902@gmail.com"
 superuser: true
 user_groups:
-  - Researchers
+  - 研究人员
 highlight_name: false
 ---
 
