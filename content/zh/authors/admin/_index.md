@@ -38,7 +38,7 @@ education:
 email: "congu902@gmail.com"
 superuser: true
 user_groups:
-  - Researchers
+  - 主要研究人员
 highlight_name: false
 ---
 
