@@ -88,7 +88,7 @@ email = "congu902@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "青大一路16号", city = "青岛", region = "山东", postcode = "266071", country = "中国", country_code = "CN"}
+address = {street = "宁夏路308号", city = "青岛", region = "山东", postcode = "266071", country = "中国", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
