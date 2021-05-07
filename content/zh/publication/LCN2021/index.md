@@ -3,7 +3,7 @@ title: "Second language learning tunes language control network: A longitudinal 
 authors:
 - Cong Liu
 - Andela de Bruin
-- ‘Jiao, L.'
+- Jiao, L.
 - Zilong Li
 - Ruiming Wang
 date: "2021-04-01T00:00:00Z"
