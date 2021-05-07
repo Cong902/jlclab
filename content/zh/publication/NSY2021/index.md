@@ -26,7 +26,7 @@ publication_short: ""
 abstract: The current longitudinal resting-state functional magnetic resonance imaging study examined changes in language control network after one year of L2 English classroom learning. A group of Chinese college freshmen majoring in English underwent two scans, one before (i.e., Session 1) and one after (i.e., Session 2) the one-year L2 courses. Learners' language control abilities were assessed via a behavioral language switching task. Our graph theory and functional connectivity analyses revealed that with increased exposure to the L2, nodal betweenness in language control areas, such as the dorsal anterior cingulate cortex (dACC), decreased and connectivity between dACC and pre-supplementary motor area (pre-SMA) increased. Critically, these neural changes were correlated with participants' behavioral performance on the language switching task. Taken together, these findings suggest that the language control network in resting brain could be modulated by long-term L2 learning in a naturalistic classroom setting, and that the dACC/pre-SMA complex appears to play a critical role in language control.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The current longitudinal resting-state functional magnetic resonance imaging study examined changes in language control network after one year of L2 English classroom learning...
 
 tags:
 - Source Themes
