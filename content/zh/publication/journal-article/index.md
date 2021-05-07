@@ -2,6 +2,10 @@
 title: "Second language learning tunes language control network: A longitudinal fMRI study"
 authors:
 - Cong Liu
+- Andela de Bruin
+- Lu Jiao
+- Zilong Li
+- Ruiming Wang
 date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.1080/23273798.2020.1856898"
 
