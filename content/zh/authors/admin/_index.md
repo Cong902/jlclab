@@ -11,15 +11,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:congu902@gmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/congu902
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=b20mUEcAAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Cong-Liu-33
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/congu902
 organizations:
   - name: 青岛大学
     url: ""
