@@ -6,10 +6,10 @@ authors:
 - Jiao, L.
 - Li, Z.
 - Wang, R.
-# author_notes:
+author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.1080/23273798.2020.1856898"
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Language Cognition and Neuroscience, 36*(4)"
+publication: "*Language Cognition and Neuroscience, 36*(4), 462-473"
 publication_short: ""
 
 abstract: The current longitudinal study investigated how classroom second language (L2) learning modulates the neural correlates of bilingual language control during language production. Chinese college freshmen majoring in English undertook two test sessions (i.e. pre-learning and post-learning) over the course of one year. Specifically, while in the scanner, participants were instructed to name pictures in either their first or second language in response to cues. Behavioral results showed that language switch costs in the post-learning session were reduced as compared to the pre-learning session. fMRI results showed that, compared to the pre-learning session, the connectivity strength between the dorsal anterior cingulate gyrus and the left caudate was increased in the post-learning session. Critically, this increased connectivity strength was correlated with the reduction in language switch costs. These findings suggest that the language control network used during bilingual language production could be modulated by long-term L2 learning in a naturalistic classroom setting.
