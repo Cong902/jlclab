@@ -1,7 +1,7 @@
 ---
 title: "Language control network adapts to second language learning: A longitudinal rs-fMRI study"
 authors:
-- Liu, C.
+- Liu, C
 - Jiao, L
 - Li, Z
 - Timmer, K
