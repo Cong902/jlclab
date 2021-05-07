@@ -1,3 +1,4 @@
+---
 widget: pages
 headless: true  # This file represents a page section.
 weight: 20
@@ -29,3 +30,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)  
   view: 2
+---
