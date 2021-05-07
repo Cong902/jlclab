@@ -1,11 +1,8 @@
 ---
 title: "Second language learning tunes language control network: A longitudinal fMRI study"
 authors:
-- Liu, C.
-- de Bruin, A.
-- Jiao, L.
-- Li, Z.
-- Wang, R.
+- Cong Liu
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
