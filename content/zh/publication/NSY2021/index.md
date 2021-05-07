@@ -1,12 +1,13 @@
 ---
-title: "An example journal article"
+title: "Language control network adapts to second language learning: A longitudinal rs-fMRI study"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Liu, C
+- Jiao, L
+- Li, Z
+- Timmer, K
+- Wang, R 
+
+date: "2021-01-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Neuropsychologia, 150*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The current longitudinal resting-state functional magnetic resonance imaging study examined changes in language control network after one year of L2 English classroom learning. A group of Chinese college freshmen majoring in English underwent two scans, one before (i.e., Session 1) and one after (i.e., Session 2) the one-year L2 courses. Learners' language control abilities were assessed via a behavioral language switching task. Our graph theory and functional connectivity analyses revealed that with increased exposure to the L2, nodal betweenness in language control areas, such as the dorsal anterior cingulate cortex (dACC), decreased and connectivity between dACC and pre-supplementary motor area (pre-SMA) increased. Critically, these neural changes were correlated with participants' behavioral performance on the language switching task. Taken together, these findings suggest that the language control network in resting brain could be modulated by long-term L2 learning in a naturalistic classroom setting, and that the dACC/pre-SMA complex appears to play a critical role in language control.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
