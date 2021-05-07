@@ -4,7 +4,7 @@ role: 副教授
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
+research interests:
   - 双语加工
   - 外语效应
   - 老年认知
