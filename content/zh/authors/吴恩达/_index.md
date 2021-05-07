@@ -63,9 +63,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+焦鲁，1992年生，理学博士，青岛大学特聘教授，副教授职称，硕士生导师。2019年毕业于北京师范大学心理学专业，曾赴美国University of Pittsburgh联合培养。主要采用行为实验方法、眼动追踪、ERP等多种技术手段考察语言学习的认知神经机制及其潜在的教学应用价值。同时，也对语言暴力、认知决策等行为的发生机制进行探讨。在Psychophysiology、Neuropsychologia、Journal of Neurolinguistics、Quarterly Journal of Experimental Psychology、心理科学等国内外心理学期刊发表学术论文十余篇。担任International Journal of Bilingualism等多个国际学术期刊审稿人。目前正在开展虚拟现实环境下外语学习的相关研究。
