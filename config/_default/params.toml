@@ -92,7 +92,7 @@ address = {street = "青大一路16号", city = "青岛", region = "山东", pos
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.06908", longitude = "120.42814"}
+coordinates = {latitude = "36.26908", longitude = "120.42814"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
