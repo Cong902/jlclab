@@ -3,7 +3,7 @@ advanced:
   css_class: fullscreen
 widget: blank
 widget_id: RECENT-POSTS
-headless: true
+headless: false
 weight: 30
 title: null
 subtitle: null
