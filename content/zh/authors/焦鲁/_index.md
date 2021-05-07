@@ -47,7 +47,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=cZejFNwAAAAJ
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Lu-Jiao-2
 
 # Link to a PDF of your resume/CV from the About widget.
