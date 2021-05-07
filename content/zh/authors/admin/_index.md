@@ -17,9 +17,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=b20mUEcAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Cong902
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Cong-Liu-33
 organizations:
   - name: 青岛大学
     url: ""
