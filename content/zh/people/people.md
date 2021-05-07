@@ -16,10 +16,10 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
+  - 主要研究人员
   - Researchers
-  - Grad Students
-  - underGrad Students
+  - 研究生
+  - 本科生
   - Administration
   - Visitors
   - Alumni
