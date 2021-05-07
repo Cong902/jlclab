@@ -2,10 +2,6 @@
 title: "Second language learning tunes language control network: A longitudinal fMRI study"
 authors:
 - Cong Liu
-
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.1080/23273798.2020.1856898"
 
