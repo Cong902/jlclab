@@ -31,7 +31,7 @@ education:
     - course: Joint Training PhD Student
       institution: Pennsylvania State University
       year: 2017-2018
-    - course: MA in Development and Education Psychology 
+    - course: MA in Developmental and Educational Psychology 
       institution: South China Nornal University
       year: 2016
     
