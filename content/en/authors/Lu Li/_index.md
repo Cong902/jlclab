@@ -1,24 +1,23 @@
 ---
 # Display name
-title: 李璐
+title: Lu Li
 bio: 
 interests:
-  - 语言认知
-  - 双语转换
+  - Bilingual switching
 
 # Username (this should match the folder name)
 authors:
-- 李璐
+- Lu Li
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士生
+role: Grad Student
 
 # Organizations/Affiliations
 organizations:
-- name: 青岛大学
+- name: Qingdao University
   url: ""
 
 
@@ -28,10 +27,10 @@ email: "lilu15653518002@163.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究生
+- Grad Students
 
 ---
 
 
 
-邮箱：lilu15653518002@163.com
+Email：lilu15653518002@163.com
