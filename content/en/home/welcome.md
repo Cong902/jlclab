@@ -6,8 +6,8 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: ""
-subtitle: "Welcome to Brain and Language Cogntion Lab!"
+title: "Welcome to Brain and Language Cogntion Lab!"
+subtitle: ""
 design:
   columns: "1"
 hero_media: welcome.jpg
