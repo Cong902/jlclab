@@ -8,7 +8,7 @@ authors:
 
 
 date: "2016-05-01T00:00:00Z"
-doi: "http://journal.psych.ac.cn/xlxb/EN/10.3724/SP.J.1041.2016.00472 "
+doi: "http://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2016.00472"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
