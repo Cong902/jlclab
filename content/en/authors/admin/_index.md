@@ -6,7 +6,7 @@ bio:
 interests:
   - Bilingual processing
   - Foreign language effect
-  - aging cognition
+  - Aging cognition
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,13 +25,13 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Psychology PH.D
+    - course: PHD in Psychology
       institution: South China Nornal University
       year: 2019
     - course: Joint Training Ph.D. Student
       institution: Pennsylvania State University
       year: 2017-2018
-    - course: Development and Education Psychology M.A.
+    - course: MA in Development and Education Psychology 
       institution: South China Nornal University
       year: 2016
     
