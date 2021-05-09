@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Neuropsychologia, 142*"
+publication: "*Journal of Psycholinguistic Research, 49*(1), 41–57"
 publication_short: ""
 
 abstract: 
