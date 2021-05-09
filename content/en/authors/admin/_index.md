@@ -22,7 +22,7 @@ social:
     link: https://twitter.com/congu902
 organizations:
   - name: Qingdao University
-    url: ""
+    url: "http://www.qdu.edu.cn/"
 education:
   courses:
     - course: PHD in Psychology
