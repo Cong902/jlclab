@@ -1,38 +1,38 @@
 ---
 # Display name
-title: 焦鲁
+title: Lu Jiao
 
 # Username (this should match the folder name)
 authors:
-- 焦鲁
+- Lu Jiao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副教授
+role: Associate Professor
 # Organizations/Affiliations
 organizations:
-- name: 青岛大学
-  url: ""
+- name: Qingdao University
+  url: "http://www.qdu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 语言学习
-- 双语认知
+- Lanuage learning
+- Bilingual cognition
 
 education:
   courses:
-  - course: 心理学 博士
-    institution: 北京师范大学
+  - course: PHD in Psychology, 2019
+    institution: Beijing Nornal University
     year: 2019
-  - course: 联合培养 博士
-    institution: 匹兹堡大学 
+  - course: Joint Training PhD Student, 2017-2018
+    institution: University of Pittsburgh 
     year: 2017-2018
-  - course: 发展与教育心理学 硕士
-    institution: 华南师范大学
+  - course: MA in Developmental and Educational Psychology
+    institution: Beijing Nornal University
     year: 2016
 
 # Social/Academic Networking
@@ -62,8 +62,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 主要研究人员
+- Principal Investigators
 
 ---
 
-焦鲁，1992年生，理学博士，青岛大学特聘教授，副教授职称，硕士生导师。2019年毕业于北京师范大学心理学专业，曾赴美国University of Pittsburgh联合培养。主要采用行为实验方法、眼动追踪、ERP等多种技术手段考察语言学习的认知神经机制及其潜在的教学应用价值。同时，也对语言暴力、认知决策等行为的发生机制进行探讨。在Psychophysiology、Neuropsychologia、Journal of Neurolinguistics、Quarterly Journal of Experimental Psychology、心理科学等国内外心理学期刊发表学术论文十余篇。担任International Journal of Bilingualism等多个国际学术期刊审稿人。目前正在开展虚拟现实环境下外语学习的相关研究。
+I am a faculty member of the Department of Psychology in Qingdao University. I got my Doctoral degree at Beijing Normal University. During the period of doctoral study, I worked for one year at University of Pittsburgh as a Visiting Research student. My recent research interests include the cognitive and neural mechanisms of  language learning and the interactions between bilingualism and domain-general cognitive control.
