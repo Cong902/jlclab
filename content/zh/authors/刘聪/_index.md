@@ -29,7 +29,7 @@ education:
       institution: 华南师范大学
       year: 2019
     - course: 联合培养 博士
-      institution: 宾夕法尼亚州立大学大学
+      institution: 宾夕法尼亚州立大学
       year: 2017-2018
     - course: 发展与教育心理学 硕士
       institution: 华南师范大学
