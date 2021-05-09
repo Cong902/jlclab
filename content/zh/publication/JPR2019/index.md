@@ -1,5 +1,5 @@
 ---
-title: "Perceptual Representations in L1, L2 and L3 Comprehension:Delayed Sentence–Picture Verifcationn"
+title: "Perceptual Representations in L1, L2 and L3 Comprehension: Delayed Sentence–Picture Verifcationn"
 authors:
  - Chen, D
  - Wang, R
