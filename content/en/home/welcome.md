@@ -12,4 +12,7 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-脑与语言认知实验室致力于揭示第二语言学习规律以及双语加工的认知与神经机制。当前实验室的主要研究方向包括：1）双语加工的心理和脑机制；2）语言学习的认知神经机制；3）语言对思维、决策等社会认知活动的影响机制。
+Welcome to Brain and Language Cogntion Lab
+***
+The Brain and Language Cogntion Lab is co-directed by Drs. Cong Liu and Lu Jiao. Work in our lab aims to better understand how people learn and process a second language, which includes 1) neural basis of bilingual processing, 2) neural basis of second language learning, and 3) foreign language effects on social decision.
+Our work relies on behavioral paradigms and methods from cognitive neuroscience (including EEG and fMRI).
