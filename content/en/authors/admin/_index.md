@@ -28,7 +28,7 @@ education:
     - course: PHD in Psychology
       institution: South China Nornal University
       year: 2019
-    - course: Joint Training Ph.D. Student
+    - course: Joint Training PhD Student
       institution: Pennsylvania State University
       year: 2017-2018
     - course: MA in Development and Education Psychology 
