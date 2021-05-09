@@ -11,7 +11,7 @@ bio:
 superuser: false
 
 # Role/position
-role: 本科生
+role: 2018级本科生
 
 # Organizations/Affiliations
 organizations:
