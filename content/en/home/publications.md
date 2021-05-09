@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 最新成果
+title: Recent Publications
 subtitle: ''
 
 content:
