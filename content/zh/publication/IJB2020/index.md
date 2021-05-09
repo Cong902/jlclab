@@ -1,8 +1,8 @@
 ---
 title: "Symmetries of comprehension-based language switch costs in conflicting versus non-conflicting contexts"
 authors:
-- Liu, C.
-- Timmer, K.
+- Liu, C
+- Timmer, K
 - Jiao, L
 - Wang, R 
 
