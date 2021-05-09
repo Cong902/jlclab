@@ -2,7 +2,7 @@
 # Display name
 title: Mengrui Zhu
 bio: 
-interests:Language learning via VR
+interests: Language learning via VR
 
 # Username (this should match the folder name)
 authors:
