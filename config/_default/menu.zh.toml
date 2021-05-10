@@ -18,7 +18,7 @@
   url = "people"
   weight = 30
 
-#[[main]]
+# [[main]]
 #  name = "事件"
 #  url = "event"
 #  weight = 40
