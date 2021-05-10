@@ -1,10 +1,10 @@
 ---
 Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+# widget: pages
 headless: true
 weight: 40
 
-title: Latest News
+#title: Latest News
 subtitle:
 
 content:
