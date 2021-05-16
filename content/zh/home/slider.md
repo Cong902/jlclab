@@ -13,8 +13,8 @@ interval: 5000
 height: 1000px
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: 行为实验
+    content: ''
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -29,16 +29,16 @@ item:
     #cta_url: 'https://example.org'
     #cta_icon_pack: fas
     #cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
-    align: left
+  - title: 脑电实验
+    content: ''
+    align: center
     overlay_color: '#555'
-    overlay_img: ''
+    overlay_img: 'ERP.jpg'
     overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
+  - title: VR实验
+    content: ''
+    align: center
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: 'VR.jpg'
     overlay_filter: 0.5
 ---
