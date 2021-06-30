@@ -10,21 +10,21 @@ on:
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  example-job:
+    name: example
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-      name: "Checkout Source Code"
-      
-    - name: Setup Node.js environment
-      uses: actions/setup-node@v1.4.2
-      with:
-        version: 12.x
+    - name: log untrusted output
+      run: |
+
+        # disable command workflow processing
+        echo "::stop-commands::`echo -n ${{ github.token }} | sha256sum | head -c 64`"
+
+        # log untrusted output
+        echo "untrusted output"
+
+        # enable workflow command processing
+        echo "::`echo -n ${{ github.token }} | sha256sum | head -c 64`::"
 
     # Runs a set of commands using the runners shell
     - name: Build the site
